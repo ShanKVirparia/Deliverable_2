@@ -1,0 +1,14 @@
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\bin\Debug\netcoreapp3.1\Deliverible_2.exe
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\bin\Debug\netcoreapp3.1\Deliverible_2.deps.json
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\bin\Debug\netcoreapp3.1\Deliverible_2.runtimeconfig.json
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\bin\Debug\netcoreapp3.1\Deliverible_2.runtimeconfig.dev.json
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\bin\Debug\netcoreapp3.1\Deliverible_2.dll
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\bin\Debug\netcoreapp3.1\Deliverible_2.pdb
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\obj\Debug\netcoreapp3.1\Deliverible_2.csproj.AssemblyReference.cache
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\obj\Debug\netcoreapp3.1\Deliverible_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\obj\Debug\netcoreapp3.1\Deliverible_2.AssemblyInfoInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\obj\Debug\netcoreapp3.1\Deliverible_2.AssemblyInfo.cs
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\obj\Debug\netcoreapp3.1\Deliverible_2.csproj.CoreCompileInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\obj\Debug\netcoreapp3.1\Deliverible_2.dll
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\obj\Debug\netcoreapp3.1\Deliverible_2.pdb
+C:\Users\shanv\source\BootCamp Repo\Deliverible_2\Deliverible_2\obj\Debug\netcoreapp3.1\Deliverible_2.genruntimeconfig.cache
